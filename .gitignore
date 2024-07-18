@@ -1,4 +1,12 @@
 .pypirc
-.build
-.da_viz.egg-info
-.dist
+
+
+/build/
+/.build/
+
+
+.da_viz.egg-info/
+.data_visualizer.egg-info/
+
+
+/dist/
