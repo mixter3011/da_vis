@@ -1,11 +1,11 @@
 .pypirc
 
 
-/build
+da_vis_ver_1/build
 
 
-/da_viz.egg-info
-/data_visualizer.egg-info
+da_vis_ver_1/da_viz.egg-info
+da_vis_ver_1/data_visualizer.egg-info
 
 
-/dist
+da_vis_ver_1/dist
