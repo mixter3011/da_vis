@@ -1,3 +1,24 @@
+Metadata-Version: 2.1
+Name: da-viz
+Version: 0.1
+Summary: A package for visualizing data and machine learning model performance
+Home-page: https://github.com/mixter3011/da_vis.git
+Author: Sabyasachi
+Author-email: sabychakraborty08@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENCE
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Requires-Dist: shap
+Requires-Dist: pandas
+Requires-Dist: dash
+Requires-Dist: plotly
+
 # da_vis
 
 `da_vis` is a Python package for visualizing data and machine learning model performance. It provides tools for generating various types of plots and dashboards to analyze and present data insights.
@@ -7,7 +28,7 @@
 You can install `da_vis` using pip:
 
 ```bash
-pip install da-viz==0.1
+pip install da-vis
 ```
 ## Usage
 

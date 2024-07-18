@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='da_vis',
+    name='da_viz',
     version='0.1',
     description='A package for visualizing data and machine learning model performance',
     long_description=open('README.md').read(),
