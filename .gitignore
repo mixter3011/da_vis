@@ -5,8 +5,8 @@
 /.build/
 
 
-.da_viz.egg-info/
-.data_visualizer.egg-info/
+da_viz.egg-info/
+data_visualizer.egg-info/
 
 
 /dist/
